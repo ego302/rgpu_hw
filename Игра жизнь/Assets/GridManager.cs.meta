@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5938feff30d7cfd49964b24dee564c89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {fileID: 947849195224279802, guid: be3d3ae6cbb534c4cb4e48e0297d10ad, type: 3}
+  - startButton: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
