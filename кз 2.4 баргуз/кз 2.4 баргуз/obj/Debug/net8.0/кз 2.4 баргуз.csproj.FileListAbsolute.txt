@@ -1,0 +1,14 @@
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\bin\Debug\net8.0\кз 2.4 баргуз.exe
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\bin\Debug\net8.0\кз 2.4 баргуз.deps.json
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\bin\Debug\net8.0\кз 2.4 баргуз.runtimeconfig.json
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\bin\Debug\net8.0\кз 2.4 баргуз.dll
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\bin\Debug\net8.0\кз 2.4 баргуз.pdb
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\obj\Debug\net8.0\кз 2.4 баргуз.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\obj\Debug\net8.0\кз 2.4 баргуз.AssemblyInfoInputs.cache
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\obj\Debug\net8.0\кз 2.4 баргуз.AssemblyInfo.cs
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\obj\Debug\net8.0\кз 2.4 баргуз.csproj.CoreCompileInputs.cache
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\obj\Debug\net8.0\кз 2.4 баргуз.dll
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\obj\Debug\net8.0\refint\кз 2.4 баргуз.dll
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\obj\Debug\net8.0\кз 2.4 баргуз.pdb
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\obj\Debug\net8.0\кз 2.4 баргуз.genruntimeconfig.cache
+D:\Users\kuril\source\repos\кз 2.4 баргуз\кз 2.4 баргуз\obj\Debug\net8.0\ref\кз 2.4 баргуз.dll
